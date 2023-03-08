@@ -66,6 +66,11 @@ h4 {
 
 table td, table th {
   border: 1px solid $color;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 2px;
+  padding-bottom: 3px;
+  min-width: 50px;
   }
 
 pre {
